@@ -1,0 +1,14 @@
+G:\Projects\CorpthingWhyButInForms\CorpthingWhyButInForms\bin\Debug\CorpthingWhyButInForms.exe.config
+G:\Projects\CorpthingWhyButInForms\CorpthingWhyButInForms\bin\Debug\CorpthingWhyButInForms.exe
+G:\Projects\CorpthingWhyButInForms\CorpthingWhyButInForms\bin\Debug\CorpthingWhyButInForms.pdb
+G:\Projects\CorpthingWhyButInForms\CorpthingWhyButInForms\obj\Debug\CorpthingWhyButInForms.CorpthingWhy.resources
+G:\Projects\CorpthingWhyButInForms\CorpthingWhyButInForms\obj\Debug\CorpthingWhyButInForms.Properties.Resources.resources
+G:\Projects\CorpthingWhyButInForms\CorpthingWhyButInForms\obj\Debug\CorpthingWhyButInForms.csproj.GenerateResource.cache
+G:\Projects\CorpthingWhyButInForms\CorpthingWhyButInForms\obj\Debug\CorpthingWhyButInForms.exe
+G:\Projects\CorpthingWhyButInForms\CorpthingWhyButInForms\obj\Debug\CorpthingWhyButInForms.pdb
+G:\Projects\CorpthingWhyButInForms\CorpthingWhyButInForms\bin\Debug\Newtonsoft.Json.dll
+G:\Projects\CorpthingWhyButInForms\CorpthingWhyButInForms\bin\Debug\Newtonsoft.Json.xml
+G:\Projects\CorpthingWhyButInForms\CorpthingWhyButInForms\obj\Debug\CorpthingWhyButInForms.csprojAssemblyReference.cache
+G:\Projects\CorpthingWhyButInForms\CorpthingWhyButInForms\obj\Debug\CorpthingWhyButInForms.csproj.CopyComplete
+G:\Projects\CorpthingWhyButInForms\CorpthingWhyButInForms\bin\Debug\corpsheet.json
+G:\Projects\CorpthingWhyButInForms\CorpthingWhyButInForms\bin\Debug\sudoku.json
